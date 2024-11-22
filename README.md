@@ -2,6 +2,9 @@
 
 A responsive user interface clone of the Amazon homepage created using HTML, CSS, and FontAwesome. This project replicates Amazon's look and feel, focusing on its layout, navigation, and basic UI elements. This clone was built purely as a frontend exercise and does not include backend functionality.
 
+![image](https://github.com/user-attachments/assets/1895c871-bd99-4146-9159-5ce682de033a)
+
+
 ## Features
 
 - **Navigation Bar**: Includes Amazon's search bar, account and list options, and cart icon.
